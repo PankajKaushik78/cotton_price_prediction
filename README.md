@@ -11,6 +11,7 @@ This is the source code for cotton price prediciton application
 ![Home Page of Website](images/HomePage.jpg)
 
 ## Graph showing the future trend of cotton price as predicted by LSTM model
+On x-axis we have days and on y-axis we have price in INR
 !['Future Trend' feature of website](images/TrendPage.jpg)
 
 ## Accuracy of model
