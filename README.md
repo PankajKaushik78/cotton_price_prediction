@@ -3,9 +3,10 @@
 This is the source code for cotton price prediciton application
 
 <hr>
-## Home page
-### Select the state, market and cotton type
-### Enter the date for which you want to predict cotton price
+
+## Home page.
+1.Select the state, market and cotton type.
+2.Enter the date for which you want to predict cotton price
 
 ![Home Page of Website](images/HomePage.jpg)
 
